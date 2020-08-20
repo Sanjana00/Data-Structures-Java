@@ -9,15 +9,23 @@ To implement queue, run the main() of List
 To implement a binary search tree, run the main() of BST
 
 Stack functions:
+
   Push
+  
   Pop
+  
   Display
   
 Queue functions:
+
   Insert
+  
   Delete
+  
   Display
   
 BST functions:
+
   Insert
+  
   Display (inorder traversal)
