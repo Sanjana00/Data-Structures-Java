@@ -8,7 +8,7 @@ To implement stack, run the main() of Stack
 To implement queue, run the main() of List
 To implement a binary search tree, run the main() of BST
 
-Stack functions:
+- Stack functions:
 
   Push
   
@@ -16,7 +16,7 @@ Stack functions:
   
   Display
   
-Queue functions:
+- Queue functions:
 
   Insert
   
@@ -24,7 +24,7 @@ Queue functions:
   
   Display
   
-BST functions:
+- BST functions:
 
   Insert
   
