@@ -2,13 +2,15 @@
 Data structures implemented in Java programming language.
 
 # Usage
-Stack and List classes are dependent on the Node class and BST is dependent on the BSTNode class.
+Stack, List and BinSearch classes are dependent on the Node class and BST is dependent on the BSTNode class.
 
 To implement stack, run the main() of Stack
 
 To implement queue, run the main() of List
 
 To implement a binary search tree, run the main() of BST
+
+To implement binary search on a linked list sorted in ascending order, run the main() of BinSearch
 
 - Stack functions:
 
@@ -31,3 +33,11 @@ To implement a binary search tree, run the main() of BST
   Insert
   
   Display (inorder traversal)
+  
+- Binary Search functions:
+
+  Insert
+  
+  Search (determine if element is present in list or not)
+  
+  Display
